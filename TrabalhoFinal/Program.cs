@@ -10,7 +10,7 @@ namespace TrabalhoFinal
     {
         static void Main(string[] args)
         {
-
+            Console.ReadKey();
         }
     }
 }
